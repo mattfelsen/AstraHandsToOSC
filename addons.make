@@ -1,0 +1,3 @@
+ofxJSON
+ofxOrbbecAstra
+ofxOsc
